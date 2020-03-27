@@ -3,7 +3,7 @@
     "instance_name": "packer-postgres",
     "ansible_roles_path": "galaxy_roles",
     "image_name": "Dinivas Postgres",
-    "image_tags": "dinivas",
+    "image_tags": "dinivas, postgres, postgresql, database, rdbms",
     "image_visibility": "public"
   },
   "builders": [{
